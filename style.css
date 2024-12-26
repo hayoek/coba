@@ -1,0 +1,32 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e5e5e5;
+}
+
+#Koleksi {
+  background-color: #e5e5e5;
+}
+
+#Pendaftaran {
+  background-color: #e5e5e5;
+}
+
+section {
+  padding-top: 5 rem;
+}
+
+.navbar {
+  background-color: #1d3557 !important;
+}
+.dropdown-menu {
+  background-color: #1d3557 !important;
+}
+.dropdown-item {
+  color: #ffffff !important;
+}
+.dropdown-item:hover {
+  background-color: #457b9d !important;
+}
+.nav-link {
+  color: #ffffff !important;
+}
